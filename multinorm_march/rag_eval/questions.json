@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "question": "Как у нас вообще организована процедура закупки оборудования от начала до конца?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 2,
+    "question": "Кто должен согласовать покупку перед тем, как отправлять заявку поставщику?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 3,
+    "question": "Нужно ли ежегодно проводить переоценку поставщиков?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 4,
+    "question": "По каким критериям выбирают поставщика?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 5,
+    "question": "Что делать, если поставщик привёз товар ненадлежащего качества?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 6,
+    "question": "Какие документы нужно получить от поставщика после поставки?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 7,
+    "question": "Можно ли повторно работать с уже одобренным поставщиком без новой оценки?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 8,
+    "question": "Сколько времени разрешено хранить отходы на территории института?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 9,
+    "question": "Какие классы опасности отходов у нас предусмотрены?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 10,
+    "question": "Можно ли вывозить отходы собственным транспортом?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 11,
+    "question": "Кто отвечает за ведение учета отходов?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 12,
+    "question": "Какие требования предъявляются к месту накопления отходов?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 13,
+    "question": "Кому передаются отходы второго класса опасности?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 14,
+    "question": "В чем разница между накоплением и хранением отходов?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 15,
+    "question": "Кто принимает решение об участии института в тендере?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 16,
+    "question": "Где хранятся резюме специалистов для подготовки тендерных предложений?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 17,
+    "question": "Что должен сделать ответственный исполнитель после обнаружения нового тендера?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 18,
+    "question": "Кто отвечает за перевод тендерного предложения на английский язык?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 19,
+    "question": "Какие документы необходимо собрать для подготовки тендерного предложения?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 20,
+    "question": "Что происходит после отправки тендерного предложения заказчику?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 101,
+    "question": "Как у нас проходит закупка, ну вот прям по шагам если коротко?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 102,
+    "question": "Надо ли каждый год переоценивать постащиков?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 103,
+    "question": "Если поставщик привез не то что заказывали, какие наши действия?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 104,
+    "question": "Кто согласовывает закупку перед отправкой заявки?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 105,
+    "question": "Какие доки должен дать поставщик после отгрузки?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 106,
+    "question": "Сколько можно хранить отходы у себя на территории?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 107,
+    "question": "Можно ли вывозить отходы своей машиной или обязательно сторонняя организация?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 108,
+    "question": "Кто вообще отвечает за отходы в институте?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 109,
+    "question": "Какие есть классы опасности отходов?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 110,
+    "question": "В чем разница между хранением и накоплением отходов?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 111,
+    "question": "Кто принимает решение участвовать в тендере или нет?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 112,
+    "question": "Что делать после того как нашли новый тендер?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 113,
+    "question": "Где лежат резюме для подготовки тендеров?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 114,
+    "question": "Кто переводит тендерное предложение на английский?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 115,
+    "question": "Какие документы нужны для участия в тендере?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 116,
+    "question": "Что происходит после отправки тендера заказчику?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 117,
+    "question": "Есть ли ограничения по сроку хранения отходов первого класса?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 118,
+    "question": "Можно ли закупить оборудование без процедуры оценки поставщика?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 119,
+    "question": "Кто отвечает за финальное утверждение закупки?",
+    "expected_search_type": "hybrid"
+  },
+  {
+    "id": 120,
+    "question": "Опишите полный цикл подготовки тендерного предложения.",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 121,
+    "question": "Какие документы регулируют экологическую безопасность в институте?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 122,
+    "question": "Есть ли регламент по утилизации батареек?",
+    "expected_search_type": "dense"
+  },
+  {
+    "id": 123,
+    "question": "Где прописана процедура ПТП?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 124,
+    "question": "Кто такой федеральный оператор в контексте отходов?",
+    "expected_search_type": "sparse"
+  },
+  {
+    "id": 125,
+    "question": "Можно ли параллельно участвовать сразу в нескольких тендерах?",
+    "expected_search_type": "dense"
+  }
+]
